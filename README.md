@@ -1,7 +1,7 @@
 # Anime Face Generator
 > Generate anime face using Auxiliary classifier Generative Adversarial Networks
 
-<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/anime.gif" width="500" height="500">
+<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/anime.gif" width="400" height="400">
 
 ## Setup
 
@@ -114,13 +114,13 @@ Fixed hair, change eye colors:
 
 Interpolation between 2 images:
 
-<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_1" width="800" height="100">
+<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_1.png" width="800" height="100">
 
-<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_3" width="800" height="100">
+<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_3.png" width="800" height="100">
 
-<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_4" width="800" height="100">
+<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_4.png" width="800" height="100">
 
-<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_5" width="800" height="100">
+<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_5.png" width="800" height="100">
 
 
 Blonde hair, blue eyes:
