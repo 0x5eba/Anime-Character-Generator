@@ -37,7 +37,7 @@ def main():
 
     if args.type == 'fix_hair_eye':
         generate_by_attributes(G, device, latent_dim, hair_classes,
-                               eye_classes, args.sample_dir, args.hair,  args.eye)
+                               eye_classes, args.sample_dir, hair_color=args.hair, eye_color=args.eye)
     elif args.type == 'change_eye':
         eye_grad(G, device, latent_dim, hair_classes,eye_classes, args.sample_dir)
     elif args.type == 'change_hair':
