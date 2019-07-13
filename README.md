@@ -1,6 +1,8 @@
 # Anime Face Generator
 > Generate anime face using Auxiliary classifier Generative Adversarial Networks
 
+<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/anime.gif" width="200" height="200">
+
 ## Setup
 
 1) Download the dataset from https://github.com/Mckinsey666/Anime-Face-Dataset
@@ -9,7 +11,9 @@
 2) Unzip the anime face folder and put all the png files inside `dataset/data`
 
 3) Go to `src/create_data/illustrationtovec` 
+    
     3.1) Run `./get_models.sh` to get the pretrained models
+    
     3.2) Run `python3 i2vmain.py` to extract the features (hair and eye color) from the images
 
 4) Go to `src/create_data` and run `python3 create_csv.py` to have all the features is a csv file
@@ -38,7 +42,7 @@
         |    └──utils_.py
 ```
 
-## Train & Test
+## Usage
 
 ### Train
 ```
@@ -95,11 +99,30 @@ Examples:
 
 
 ## Results
-<!-- 
-Original image
 
-<img src="https://github.com/0x5eba/Skin-Cancer-Segmentation/blob/master/Nei/git.png" width="200" height="200">
+Fixed noise, change eye and hair colors:
 
-Classify and Segment image
+<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/fix_noise_4.png" width="200" height="200">
 
-<img src="https://github.com/0x5eba/Skin-Cancer-Segmentation/blob/master/Nei/gitres.png" width="400" height="400"> -->
+Fixed eye, change hair colors:
+
+<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/change_hair_color.png" width="200" height="200">
+
+Fixed hair, change eye colors:
+
+<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/change_eye_color.png" width="200" height="200">
+
+Interpolation between 2 images:
+
+<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_1" width="1000" height="200">
+
+<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_3" width="1000" height="200">
+
+<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_4" width="1000" height="200">
+
+<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_5" width="1000" height="200">
+
+
+Blonde hair, blue eyes:
+
+<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/blonde%20hair%20blue%20eyes.png" width="200" height="200">
