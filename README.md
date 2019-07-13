@@ -106,21 +106,21 @@ Fixed noise, change eye and hair colors:
 
 Fixed eye, change hair colors:
 
-<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/change_hair_color.png" width="800" height="100">
+<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/change_hair_color.png" width="800" height="70">
 
 Fixed hair, change eye colors:
 
-<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/change_eye_color.png" width="800" height="100">
+<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/change_eye_color.png" width="800" height="70">
 
 Interpolation between 2 images:
 
-<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_1.png" width="800" height="100">
+<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_1.png" width="800" height="70">
 
-<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_3.png" width="800" height="100">
+<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_3.png" width="800" height="70">
 
-<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_4.png" width="800" height="100">
+<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_4.png" width="800" height="70">
 
-<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_5.png" width="800" height="100">
+<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_5.png" width="800" height="70">
 
 
 Blonde hair, blue eyes:
